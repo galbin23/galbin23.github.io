@@ -17,4 +17,5 @@ This is my personal portfolio page showcasing a clean HTML structure, proper hea
 - External link to GitHub in the footer
 
 ## Screenshot
-![Portfolio website screenshot](https://i.imgur.com/TLUNXG)
+![Portfolio website screenshot] [
+](https://imgur.com/gallery/proj-TLUNXGR)
